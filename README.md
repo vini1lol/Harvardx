@@ -1,2 +1,2 @@
-# Havardx
+# Harvardx
 Harvardx courses 
